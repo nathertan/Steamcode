@@ -9,7 +9,7 @@ How to use
   
   ***IMPORTANT***
     1. YOU NEED TO LOG IN TO BOTH OF ACCOUNT FIRST BEFORE USING THIS .BAT FILE
-      1.1 after loging in with the first account, exit steam and run the .bat file for the other account and login with the 2nd           account credentials.
+      1.1 after loging in with the first account, exit steam and run the .bat file for the other account and login with the 2nd account credentials.
     2. YOU NEED TO TICK THE REMEMBER ME WHEN YOU LOG IN
     3. YOU NEED TO EXIT STEAM CLIENT EVERY TIME YOU ARE USING THIS FILE.
     4. YOU STILL NEED STEAM GUARD EVERY 2-3 WEEKS.
