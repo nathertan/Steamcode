@@ -1,5 +1,6 @@
 # Steamcode
-This .bat windows file is used to quick swap your steam account.\n
+This .bat windows file is used to quick swap your steam account.
+
 How to use
   1. Download/paste the .bat file to notepad/text editor and save as .bat as much as you need
     (e.g. if you need to switch between 2 accounts make 2 files with each username in it)
